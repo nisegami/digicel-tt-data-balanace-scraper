@@ -1,0 +1,14 @@
+[auth]
+email = ""
+password = ""
+
+[paths]
+database = "./data.db"
+api = "./balance.json"
+log = "./log.txt"
+
+[display]
+width = 2000
+height = 1000
+backend = "xvfb"
+rfbport = 5095
